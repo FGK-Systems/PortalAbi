@@ -9,7 +9,7 @@ const Hero = () => {
         <div className='container'>
           <div className='row'>
             <Heading subtitle='SEJA BEM VINDO AO' title='Portal do Abí Axé' />
-            <p>Muito, muito longe, atrás das montanhas das palavras, longe dos países Vokalia e Consonantia, vivem os textos cegos.</p>
+            <p>Conectando histórias, culturas e vozes do Sertão, onde a tradição e a identidade negra ganham vida e força.</p>
             <div className='button'>
               <button className='primary-btn'>
                 Acessar o SGPD <i className='fa fa-long-arrow-alt-right'></i>

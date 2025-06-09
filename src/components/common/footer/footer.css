@@ -7,6 +7,7 @@
 .newletter .left {
   padding-right: 50px;
 }
+
 .newletter h1 {
   color: #fff;
   font-size: 30px;
@@ -68,6 +69,10 @@ footer .link li::before {
   color: #1eb2a6;
   margin-right: 5px;
 }
+
+footer .link{
+  margin-left: 15px;
+}
 footer .items {
   margin-bottom: 30px;
 }
@@ -89,6 +94,9 @@ footer h4 {
   font-weight: 400;
   margin-top: 5px;
 }
+footer .last {
+  margin-left: 20px ;
+}
 footer .last ul li {
   display: flex;
   margin-bottom: 50px;
@@ -97,6 +105,7 @@ footer .last i {
   width: 60px;
   font-size: 20px;
   color: #1eb2a6;
+  padding-right: 10px;
 }
 .legal {
   text-align: center;
