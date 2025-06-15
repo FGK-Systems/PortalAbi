@@ -11,12 +11,7 @@ const Hero = () => {
             <Heading subtitle='SEJA BEM VINDO AO' title='Portal do Abí Axé' />
             <p>Conectando histórias, culturas e vozes do Sertão, onde a tradição e a identidade negra ganham vida e força.</p>
             <div className='button'>
-              <button className='primary-btn'>
-                Acessar o SGPD <i className='fa fa-long-arrow-alt-right'></i>
-              </button>
-              <button>
-                Acessar o SGPD <i className='fa fa-long-arrow-alt-right'></i>
-              </button>
+
             </div>
           </div>
         </div>
