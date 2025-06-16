@@ -44,7 +44,7 @@ export const awrapper = [
 export const coursesCard = [
   {
     id: 1,
-    cover: "../images/courses/c1.png",
+    cover: "../images/courses/icon.png",
     coursesName: "Oficina de Turbantes - Cultura Afro-Brasileiras",
     courTeacher: [
       {
@@ -58,7 +58,7 @@ export const coursesCard = [
   },
   {
     id: 2,
-    cover: "../images/courses/c2.png",
+    cover: "../images/courses/icon.png",
     coursesName: "Oficina de Dança - Cultura Afro-Brasileira",
     courTeacher: [
       {
@@ -72,7 +72,7 @@ export const coursesCard = [
   },
   {
     id: 3,
-    cover: "../images/courses/c3.png",
+    cover: "../images/courses/icon.png",
     coursesName: "Oficina de Contação de Histórias Afro-Brasileiras",
     courTeacher: [
       {
@@ -86,12 +86,12 @@ export const coursesCard = [
   },
   {
     id: 4,
-    cover: "../images/courses/c4.png",
+    cover: "../images/courses/icon.png",
     coursesName: "Oficina de Percurssão - Atabaque, Agogôs e Xequerês",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
-        name: "",
+        dcover: "./images/team/tiego.jpg",
+        name: "Tiego Ribeiro",
         totalTime: "2 horas",
       },
     ],
@@ -100,12 +100,12 @@ export const coursesCard = [
   },
   {
     id: 5,
-    cover: "../images/courses/c5.png",
+    cover: "../images/courses/icon.png",
     coursesName: "Formação Docente em Educação Afro-Brasileira, Racismo e LGBT+fobia",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
-        name: "Por Abí Axé Egbé",
+        dcover: "./images/team/alice.jpg",
+        name: "Alice Mendes",
         totalTime: "40 horas",
       },
     ],
@@ -114,11 +114,11 @@ export const coursesCard = [
   },
   {
     id: 6,
-    cover: "../images/courses/c6.png",
+    cover: "../images/courses/icon.png",
     coursesName: "Oficina de Canto - Cultura Afro-brasileira",
     courTeacher: [
       {
-        dcover: "./images/back.webp",
+        dcover: "./images/team/tiego.jpg",
         name: "Tiego Ribeiro",
         totalTime: "2 horas",
       },
